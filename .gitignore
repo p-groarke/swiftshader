@@ -2,7 +2,6 @@
 /cache/
 /lib/
 /obj/
-/bin/
 /out/
 .vs
 .vscode/ipch
@@ -29,7 +28,6 @@ cmake-build-debug/
 *.pdb
 *.sbr
 *.bsc
-*.dll
 *.res
 *.idb
 *.sdf
